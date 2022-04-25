@@ -34,7 +34,7 @@ Start.addEventListener('click',function(){
         if(SegundosAtual <=0){
           if(Minutos > 0){
               MinutosAtual --;
-              SegundosAtual + 59;
+              SegundosAtual = 59;
 
           }else{
               alert("TERMINOU");

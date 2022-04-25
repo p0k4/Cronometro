@@ -1,1 +1,1 @@
-Cronometro Basico
+Cronometro Basico em JavaScriptS

@@ -1,13 +1,16 @@
 .container {
     text-align: center;
     
+    
 }
 
 button{
     background: #069;
     color: white;
-    font-size: 13px;
-    padding: 8px 20px;
+    font-size: 30px;
+    padding: 10px 40px;
     cursor: pointer;
-    border: 0;
+    border: 200;
+    border-color: black;
 }
+
